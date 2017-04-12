@@ -1,2 +1,2 @@
 # Primetime Slime Climb
-You are a slime who needs to absorb all those jerk aliens trying to vaporize you! Race to the top and eat all of them robutts!
+Result of a 48-hour Game Jam at UMass Lowell
