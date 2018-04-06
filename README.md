@@ -1,5 +1,5 @@
 # Primetime Slime Climb
-Result of a 48-hour Game Jam at UMass Lowell (Realistically, about 20 hours went into this)
+Result of a 48-hour Game Jam (Realistically, about 20 hours went into this)
 
 # Current state
  - Movement and general physics work, as well as basic tethering
